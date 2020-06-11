@@ -6,7 +6,7 @@ For any questions/suggestions/comments please send an email to stockscreenapp(at
 
 ## Privacy Policy
 
-Erik Wolgast built the StockScreen app as an Ad Supported app. This SERVICE is provided by Erik Wolgast at no cost and is intended for use as is.
+The StockScreen app is built as an Ad Supported app. This SERVICE is provided at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
