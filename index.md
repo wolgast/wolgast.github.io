@@ -1,6 +1,6 @@
 ## Welcome to support page for the StockScreen app
 
-This page contains the privacy policy as well as the support info for the app StockScreen that can be found in the apple app store.
+This page contains the privacy policy as well as the support info for the app StockScreen that can be found in the Apple app store.
 
 For any questions/suggestions/comments please send an email to stockscreenapp(at)gmail.com
 
